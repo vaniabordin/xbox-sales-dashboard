@@ -1,6 +1,9 @@
 # 🎮 Xbox Game Pass - Dashboard de Vendas (Planos Anuais)
 📝 Entendendo o Desafio
 O objetivo deste projeto é transformar dados brutos de subscrições do Xbox Game Pass em informações visuais claras. O foco foi analisar o desempenho dos planos anuais durante o ano de 2024, permitindo uma tomada de decisão baseada em métricas reais de faturamento, retenção e comportamento de consumo.
+# xbox-sales-dashboard
+
+![Visualização do Dashboard](dashboard.png)
 
 # 🔍 Perguntas de Negócio Respondidas
 O dashboard foi estruturado para responder a questões críticas de performance:
